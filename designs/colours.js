@@ -44,4 +44,5 @@ export default COLORS={
 
     warning:' #F88070',
     accent:'FF6060',
+    pccent:'FF6060',
 }
